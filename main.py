@@ -9,7 +9,7 @@ list_wanted = []
 tips = "Tips \n1. Make sure search results are sorted by *Latest* \n2. Do NOT make Advanced Payments unless you are 100% sure about their authenticity "
 KV ='''
 Screen:
-    NavigationLayout:
+    MDNavigationLayout:
         ScreenManager:           
             Screen:
                 ScrollView:
